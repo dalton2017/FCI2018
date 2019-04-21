@@ -1,0 +1,1 @@
+web: gunicorn fcibot.wsgi --log-file -

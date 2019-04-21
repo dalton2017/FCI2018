@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "${workspaceFolder}\\activate\\Scripts\\python.exe",
+    "python.linting.enabled": false
+}

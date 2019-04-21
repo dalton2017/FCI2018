@@ -1,0 +1,11 @@
+nltk==3.3
+certifi==2018.4.16
+pipenv==2018.5.18
+virtualenv==16.0.0
+virtualenv-clone==0.3.0
+gunicorn==19.0.0
+Django==2.0.6 
+langdetect==1.0.7
+six==1.10.0
+psycopg2-binary== 2.7.5
+mtranslate== *

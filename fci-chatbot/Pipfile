@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+nltk = "==3.3"
+certifi = "==2018.4.16"
+pipenv = "==2018.5.18"
+virtualenv = "==16.0.0"
+virtualenv-clone = "==0.3.0"
+gunicorn = "==19.0.0"
+Django = "==2.0.6"
+django-heroku = "*"
+requests = "*"
+
+[dev-packages]
+nltk = "==3.3"
+
+[requires]
+python_version = "3.6"
